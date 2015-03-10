@@ -24,4 +24,4 @@ IOS基于tableview的多选控件封装,block回调
     }];
 
 
-![](https://raw.githubusercontent.com/shaojiankui/MultiSelectView/master/demo.gif)
+![](https://raw.githubusercontent.com/shaojiankui/MultiSelectView/master/thumb.gif)
